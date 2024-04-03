@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\www\\work\\learn\\automation_using_selenium_and_epplus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C1A010-569E-40A9-BEE4-AC45B160C581}|automation_using_selenium_and_epplus\\automation_using_selenium_and_epplus.csproj|c:\\users\\victo\\www\\work\\learn\\automation_using_selenium_and_epplus\\automation_using_selenium_and_epplus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C1A010-569E-40A9-BEE4-AC45B160C581}|automation_using_selenium_and_epplus\\automation_using_selenium_and_epplus.csproj|solutionrelative:automation_using_selenium_and_epplus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\www\\work\\learn\\automation_using_selenium_and_epplus\\automation_using_selenium_and_epplus\\Program.cs",
+              "RelativeDocumentMoniker": "automation_using_selenium_and_epplus\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\www\\work\\learn\\automation_using_selenium_and_epplus\\automation_using_selenium_and_epplus\\Program.cs",
+              "RelativeToolTip": "automation_using_selenium_and_epplus\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:03:10.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

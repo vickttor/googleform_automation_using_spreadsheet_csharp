@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "automation_using_selenium_and_epplus", "automation_using_selenium_and_epplus\automation_using_selenium_and_epplus.csproj", "{F9C1A010-569E-40A9-BEE4-AC45B160C581}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9C1A010-569E-40A9-BEE4-AC45B160C581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C1A010-569E-40A9-BEE4-AC45B160C581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C1A010-569E-40A9-BEE4-AC45B160C581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C1A010-569E-40A9-BEE4-AC45B160C581}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38C4D848-742E-4636-935A-B4B7638F037C}
+	EndGlobalSection
+EndGlobal
